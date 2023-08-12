@@ -9,6 +9,15 @@
       "timestamp": "8/8/2023, 10:27:47 pm"
     },
     {
+      "amount": 10000,
+      "clearingCheck": false,
+      "clearingFrom": "Mahaboob",
+      "clearingTo": "Mahaboob",
+      "description": "water",
+      "name": "Mahaboob",
+      "timestamp": "8/8/2023, 10:27:47 pm"
+    },
+    {
       "amount": 5000,
       "clearingCheck": true,
       "clearingFrom": "Sadiq",
