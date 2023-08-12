@@ -1,119 +1,65 @@
 [
-    {
-      "amount": 10000,
-      "clearingCheck": false,
-      "clearingFrom": "Mahaboob",
-      "clearingTo": "Mahaboob",
-      "description": "water",
-      "name": "github",
-      "timestamp": "8/8/2023, 10:27:47 pm"
-    },
-    {
-      "amount": 10000,
-      "clearingCheck": false,
-      "clearingFrom": "Mahaboob",
-      "clearingTo": "Mahaboob",
-      "description": "water",
-      "name": "Mahaboob",
-      "timestamp": "8/8/2023, 10:27:47 pm"
-    },
-    {
-      "amount": 5000,
-      "clearingCheck": true,
-      "clearingFrom": "Sadiq",
-      "clearingTo": "Mahaboob",
-      "description": "water",
-      "name": "Sadiq",
-      "timestamp": "8/8/2023, 11:29:07 pm"
-    },
-    {
-      "amount": 5000,
-      "clearingCheck": false,
-      "clearingFrom": "Mahaboob",
-      "clearingTo": "Mahaboob",
-      "description": "Food",
-      "name": "Mahaboob",
-      "timestamp": "9/8/2023, 12:03:02 am"
-    },
-    {
-      "amount": 5000,
-      "clearingCheck": false,
-      "clearingFrom": "Mahaboob",
-      "clearingTo": "Mahaboob",
-      "description": "Food",
-      "name": "Mahaboob",
-      "timestamp": "9/8/2023, 12:03:30 am"
-    },
-    {
-      "amount": 20345,
-      "clearingCheck": false,
-      "clearingFrom": "Mahaboob",
-      "clearingTo": "Mahaboob",
-      "description": "tickets",
-      "name": "Pasha",
-      "timestamp": "9/8/2023, 12:21:12 am"
-    },
-    {
-      "amount": 10000,
-      "clearingCheck": false,
-      "clearingFrom": "Mahaboob",
-      "clearingTo": "Mahaboob",
-      "description": "Food",
-      "name": "Hussain",
-      "timestamp": "9/8/2023, 2:16:29 pm"
-    },
-    {
-      "amount": 5000,
-      "clearingCheck": true,
-      "clearingFrom": "Ayesha",
-      "clearingTo": "Hussain",
-      "description": "Food",
-      "name": "Ayesha",
-      "timestamp": "9/8/2023, 2:16:52 pm"
-    },
-    {
-      "amount": 20000,
-      "clearingCheck": false,
-      "clearingFrom": "Ayesha",
-      "clearingTo": "Hussain",
-      "description": "tickets",
-      "name": "Arifa Begum",
-      "timestamp": "9/8/2023, 2:17:48 pm"
-    },
-    {
-      "amount": 10000,
-      "clearingCheck": true,
-      "clearingFrom": "Sadiq",
-      "clearingTo": "Arifa Begum",
-      "description": "tickets",
-      "name": "Sadiq",
-      "timestamp": "9/8/2023, 2:18:10 pm"
-    },
-    {
-      "amount": 10000,
-      "clearingCheck": false,
-      "clearingFrom": "Mahaboob",
-      "clearingTo": "Mahaboob",
-      "description": "tickets",
-      "name": "Hussain",
-      "timestamp": "9/8/2023, 9:30:43 pm"
-    },
-    {
-      "amount": 5000,
-      "clearingCheck": true,
-      "clearingFrom": "Ayesha",
-      "clearingTo": "Hussain",
-      "description": "tickets",
-      "name": "Hussain",
-      "timestamp": "9/8/2023, 9:31:06 pm"
-    },
-    {
-      "amount": 5000,
-      "clearingCheck": true,
-      "clearingFrom": "Ayesha",
-      "clearingTo": "Hussain",
-      "description": "tickets",
-      "name": "Ayesha",
-      "timestamp": "9/8/2023, 9:31:44 pm"
-    }
+   {
+     "name": "Pasha",
+     "amount": 4435,
+     "description": "Visakhapatnam to Araku Train tickets",
+     "timestamp": "27/7/2023 6:21:47 pm",
+	 "clearingCheck":false,
+	 "clearingFrom":"Mahaboob",
+	 "clearingTo":"Mahaboob"
+   },
+   {
+     "name": "Pasha",
+     "amount": 3386,
+     "description": "Khammam to Visakhapatnam Train tickets",
+     "timestamp": "28/7/2023 5:44:02 pm",
+	 "clearingCheck":false,
+	 "clearingFrom":"Mahaboob",
+	 "clearingTo":"Mahaboob"
+   },
+   {
+     "name": "Pasha",
+     "amount": 8064,
+     "description": "Araku Hotel Booking",
+     "timestamp": "29/7/2023 12:40:26 am",
+	 "clearingCheck":false,
+	 "clearingFrom":"Mahaboob",
+	 "clearingTo":"Mahaboob"
+   },
+   {
+     "name": "Pasha",
+     "amount": 4675,
+     "description": "Visakhapatnam to Khammam Train tickets",
+     "timestamp": "31/7/2023 1:54:37 pm",
+	 "clearingCheck":false,
+	 "clearingFrom":"Mahaboob",
+	 "clearingTo":"Mahaboob"
+   },
+   {
+     "name": "Pasha",
+     "amount": 6691,
+     "description": "Visakhapatnam Hotel Booking",
+     "timestamp": "31/7/2023 9:10:28 pm",
+	 "clearingCheck":false,
+	 "clearingFrom":"Mahaboob",
+	 "clearingTo":"Mahaboob"
+   },
+   {
+     "name": "Ayesha",
+     "amount": 4541,
+     "description": "Clearing to Pasha",
+     "timestamp": "01/8/2023 9:35:28 pm",
+	 "clearingCheck":true,
+	 "clearingFrom":"Ayesha",
+	 "clearingTo":"Pasha"
+   },
+   {
+     "name": "Hussain",
+     "amount": 4541,
+     "description": "Clearing to Pasha",
+     "timestamp": "01/8/2023 9:35:28 pm",
+	 "clearingCheck":false,
+	 "clearingFrom":"Hussain",
+	 "clearingTo":"Pasha"
+   }
 ]
